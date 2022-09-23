@@ -15,4 +15,4 @@ Pull: this is a process that downloads all new updates from the online repo remo
 
 # When do you need to pull?
 
-Pull is needed at the begining of a repo. Start of day, when a team member tells the team to pull/a new update(s) werer added, or local project has issues and you need a new/clean copy. Another example for a pull can be used for a branch, fork, clone, etc.
+Pull is needed at the beginning of a repo. Pull can be used for multi-computer use. Pull can be used for start of day, when a team member tells the team to pull/a new update(s) werer added, or local project has issues and you need a new/clean copy. Another example for a pull can be used for a branch, fork, clone, etc.
